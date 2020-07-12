@@ -26,6 +26,7 @@ A full-stack engineer who feels comfortable working on the edge of the unknown.
 
 ### 📫 How to reach me
 - [linkedin](https://www.linkedin.com/in/weezyjr/)
+- [twitter](https://twitter.com/ahmed_niggz)
 
 
 <!--
