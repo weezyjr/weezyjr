@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ahmed
 
-Full-stack engineer who feels comfortable working on the edge of the unknown.
+A full-stack engineer who feels comfortable working on the edge of the unknown.
 
 ### 🤹🏻 Professional Skilled in
 #### 🧰 Frameworks
