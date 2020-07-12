@@ -20,9 +20,9 @@ A full-stack engineer who feels comfortable working on the edge of the unknown.
 
 
 ### 🏁 Recent Projects
-| ![1lims](https://www.1lims.com/wp-content/uploads/2018/05/Logo-black-1.png) |
-| ------------- |
-| [www.1lims.com](www.1lims.com) |
+| ![1lims](https://www.1lims.com/wp-content/uploads/2018/05/Logo-black-1.png) | Qurba Admin Panel |
+| ------------- | ------------- |
+| [www.1lims.com](www.1lims.com) | [Qurba.io](Qurba.io) |
 
 ### 📫 How to reach me
 - [linkedin](https://www.linkedin.com/in/weezyjr/)
