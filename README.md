@@ -5,7 +5,6 @@ A full-stack engineer who feels comfortable working on the edge of the unknown.
 ### 🤹🏻 Professional Skilled in
 #### 🧰 Frameworks
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 #### 🗄️ Database
