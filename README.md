@@ -19,10 +19,10 @@ A full-stack engineer who feels comfortable working on the edge of the unknown.
 
 
 ### 🏁 Envolved Projects
-| Project | ![1lims](https://www.1lims.com/wp-content/uploads/2018/05/Logo-black-1.png) | ![Qurba](https://media-exp1.licdn.com/dms/image/C4D0BAQEDEFoYM8t1vA/company-logo_100_100/0?e=1602720000&v=beta&t=YPved9z4bIHsBdLlX5FtDoj9LKMqmzp5fgkY-J-feog) |
+| Project | ![1lims](https://www.1lims.com/wp-content/uploads/2018/05/Logo-black-1.png) | ![Qurba](https://media-exp1.licdn.com/dms/image/C4D0BAQEDEFoYM8t1vA/company-logo_200_200/0/1545676169874?e=1616630400&v=beta&t=YfJswWnKAtiRtuSHzUQrGvsn5VFmDzgimmoO6qiFieA) |
 | ------------- | ------------- | ------------- |
 | url | [1lims.com](https://www.1lims.com) | [Qurba.io](https://Qurba.io) |
-| period | 1yr 2mo | 1mo |
+| period | 1yr 2mo | 2mo |
 
 ### 📫 How to reach me
 - [linkedin](https://www.linkedin.com/in/weezyjr/)
