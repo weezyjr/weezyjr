@@ -10,19 +10,12 @@ A full-stack engineer who feels comfortable working on the edge of the unknown.
 #### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 #### 📙 Languages
 - Typescript
 - HTML/CSS
 - Python
 
-
-### 🏁 Envolved Projects
-| Project | ![1lims](https://www.1lims.com/wp-content/uploads/2018/05/Logo-black-1.png) | ![Qurba](https://media-exp1.licdn.com/dms/image/C4D0BAQEDEFoYM8t1vA/company-logo_200_200/0/1545676169874?e=1616630400&v=beta&t=YfJswWnKAtiRtuSHzUQrGvsn5VFmDzgimmoO6qiFieA) |
-| ------------- | ------------- | ------------- |
-| url | [1lims.com](https://www.1lims.com) | [Qurba.io](https://Qurba.io) |
-| period | 1yr 2mo | 2mo |
 
 ### 📫 How to reach me
 - [linkedin](https://www.linkedin.com/in/weezyjr/)
